@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chenging this to get a conflict
+=======
+new content
+>>>>>>> branch1
